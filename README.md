@@ -100,7 +100,7 @@ This project proves my ability to:
 ## 📬 Contact
 
 Reach out to discuss this project or my skills:
-- **Email**: mohamed.essam@example.com
+- **Email**: mosalah36000@gmail.com
 - **LinkedIn**: [Mohamed Essam](https://linkedin.com/in/your-linkedin)
 - **GitHub**: [MohamedEssamML](https://github.com/MohamedEssamML)
 
