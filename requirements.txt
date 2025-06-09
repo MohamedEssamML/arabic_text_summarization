@@ -1,0 +1,8 @@
+
+torch
+transformers==4.40.0
+pandas==2.2.2
+pyqt5==5.15.10
+datasets==2.20.0
+sentencepiece==0.1.99
+numpy==1.26.4
